@@ -1,0 +1,183 @@
+
+A=input("Hey I'm the chat bot today I'd like to suggest some games that you might\nfind interesting first how old are you?")
+if A < str(12):
+    print("Sorry a lot of these games can be for older audiences come back later")
+    
+else :
+    print("Good now we can begin")
+    print("So are you ready to begin?")
+    
+B=input("All right great plaese start by picking one of these Letteers \nZ.Sandbox \nY.Real-time strategy (RTS) \nX.Shooters or FPS and TPS \nW.Multiplayer online battle arena or (MOBA) \nV.Role-playing often reffered to as RPG, ARPG, and More \nUSimulation and sports \nT.Puzzlers and party games \nS.Action and adventure \nR.Survival and horror \nQ.Platformer")
+
+if B == "Z" :
+    print("Alright what are you looking for in this genre")
+    print("A. Building and cradting\nB. Online rpg \nC Full of missions and side quest \nD.Story")
+    B1=input()
+    if B1 == "A":
+        print("Great I think youd enjoy Minecreaft")
+        
+    elif B1 == "B":
+        print("Great I think youd enjoy Red dead redemtion")
+    
+    elif B1 == "C":
+        print("Great I think youd enjoy grand theft auto")
+        
+    elif B1 == "D":
+        print("Great I think youd enjoy God of war")
+    else:
+        print("Sorry plaese type the capital ledder")
+    
+if B == "Y" :
+    print("Alright what are you looking for in this genre")
+    print("A.Turn based\nB.real Time\nC.Mythology\nD.Sci")
+    B1=input()
+    if B1 == "A":
+        print("Great I think youd enjoy")
+        
+    elif B1 == "B":
+        print("Great I think youd enjoy")
+    
+    elif B1 == "C":
+        print("Great I think youd enjoy")
+        
+    elif B1 == "D":
+        print("Great I think youd enjoy")
+    else:
+        print("Sorry plaese type the capital ledder")
+        
+
+if B == "X" :
+    print("Alright what are you looking for in this genre")
+    print("A.\nB.\nC.\nD.")
+    B1=input()
+    if B1 == "A":
+        print("Great I think youd enjoy")
+        
+    elif B1 == "B":
+        print("Great I think youd enjoy")
+    
+    elif B1 == "C":
+        print("Great I think youd enjoy")
+         
+    elif B1 == "D":
+        print("Great I think youd enjoy")
+        
+ 
+if B == "W" :
+    print("Alright what are you looking for in this genre")
+    print("A.\nB.\nC.\nD.")
+    B1=input()
+    if B1 == "":
+        print("Great I think youd enjoy")
+        
+    elif B1 == "":
+        print("Great I think youd enjoy")
+    
+    elif B1 == "":
+        print("Great I think youd enjoy")
+        
+    elif B1 == "":
+        print("Great I think youd enjoy")
+        
+
+if B == "V" :
+    print("Alright what are you looking for in this genre")
+    print("A.\nB.\nC.\nD.")
+    B1=input()
+    if B1 == "":
+        print("Great I think youd enjoy")
+        
+    elif B1 == "":
+        print("Great I think youd enjoy")
+    
+    elif B1 == "":
+        print("Great I think youd enjoy")
+        
+    elif B1 == "":
+        print("Great I think youd enjoy")
+        
+
+if B == "U" :
+    print("Alright what are you looking for in this genre")
+    print("A.\nB.\nC.\nD.")
+    B1=input()
+    if B1 == "":
+        print("Great I think youd enjoy")
+        
+    elif B1 == "":
+        print("Great I think youd enjoy")
+    
+    elif B1 == "":
+        print("Great I think youd enjoy")
+        
+    elif B1 == "":
+        print("Great I think youd enjoy")
+        
+    elif B1 == "":
+        print("Great I think youd enjoy")
+if B == "T" :
+    print("Alright what are you looking for in this genre")
+    print("A.\nB.\nC.\nD.")
+    B1=input()
+    if B1 == "":
+        print("Great I think youd enjoy")
+        
+    elif B1 == "":
+        print("Great I think youd enjoy")
+    
+    elif B1 == "":
+        print("Great I think youd enjoy")
+        
+    elif B1 == "":
+        print("Great I think youd enjoy")
+        
+    elif B1 == "":
+        print("Great I think youd enjoy")
+        
+if B == "S" :
+    print("Alright what are you looking for in this genre")
+    print("A.\nB.\nC.\nD.")
+    B1=input()
+    if B1 == "":
+        print("Great I think youd enjoy")
+        
+    elif B1 == "":
+        print("Great I think youd enjoy")
+    
+    elif B1 == "":
+        print("Great I think youd enjoy")
+        
+    elif B1 == "":
+        print("Great I think youd enjoy")
+
+if B == "R" :
+    print("Alright what are you looking for in this genre")
+    print("A.\nB.\nC.\nD.")
+    B1=input()
+    if B1 == "":
+        print("Great I think youd enjoy")
+        
+    elif B1 == "":
+        print("Great I think youd enjoy")
+    
+    elif B1 == "":
+        print("Great I think youd enjoy")
+        
+    elif B1 == "":
+        print("Great I think youd enjoy")
+    
+if B == "Q" :
+    print("Alright what are you looking for in this genre")
+    print("A.\nB.\nC.\nD.")
+    B1=input()
+    if B1 == "":
+        print("Great I think youd enjoy")
+        
+    elif B1 == "":
+        print("Great I think youd enjoy")
+    
+    elif B1 == "":
+        print("Great I think youd enjoy")
+        
+    elif B1 == "":
+        print("Great I think youd enjoy")
